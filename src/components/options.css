@@ -1,0 +1,19 @@
+.summary__option {
+    font-size: 0.9em;
+    display: grid;
+    margin-top: 10px;
+  }
+  
+  .summary__option__label {
+    font-weight: bold;
+    grid-area: key
+  }
+  
+  .summary__option__value {
+    grid-area: value;
+  }
+  
+  .summary__option__cost {
+    grid-area: cost;
+    text-align: right;
+  }

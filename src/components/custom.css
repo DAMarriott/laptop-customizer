@@ -1,0 +1,15 @@
+.feature__list {
+    list-style: none;
+  }
+
+.feature_option {
+    cursor: pointer;
+
+}
+
+.form {
+  flex: 5;
+  padding: 2px;
+
+}
+
